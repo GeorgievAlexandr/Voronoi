@@ -50,6 +50,6 @@ public class Main {
                 }
             }
         }
-        display.renderP();
+        display.render(screen);
     }
 }
