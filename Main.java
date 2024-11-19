@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         int[][] points = new int[][]{{100, 300}, {200, 400}, {50, 200}, {150, 150}, {300, 100}, {100,100}};
